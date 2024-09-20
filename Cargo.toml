@@ -1,0 +1,16 @@
+[package]
+name = "unit-kit"
+version = "0.1.0"
+authors = ["baoyachi <liaoymxsdl@gmail.com>"]
+edition = "2021"
+description = "Powerful Rust library for seamless units kit conversions and management."
+keywords = ["unit", "unit-kit", "units", "unit-parser", "unitkit"]
+readme = "README.md"
+categories = ["parsing", "mathematics","science"]
+repository = "https://github.com/baoyachi/unitkit-rs"
+documentation = "https://docs.rs/unit-kit"
+homepage = "https://github.com/baoyachi/unitkit-rs"
+license = "MIT AND Apache-2.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
